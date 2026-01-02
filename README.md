@@ -1,6 +1,3 @@
-## NeurAlch (neural alchemy)
+## NeurAlch
 
-I have a few side projects that I build for fun on my free time:
-
-- [Simulations](https://neuralch.github.io/simulations/)
-- [NeuraTools](https://neura.tools/)
+From the words Neural + Alchemy. Code is art, alchemy, fun, creativity, engineering. 
