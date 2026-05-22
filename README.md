@@ -9,7 +9,7 @@ Some vibe coded stuff from the weekends:
 - [Simulations](https://neuralch.github.io/simulations/)
 - [Simulations Code](https://github.com/NeurAlch/simulations)
 
-Some toys from old days, not vibe coded.
+Random unfinished stuff:
 
 - [Notebook](https://github.com/NeurAlch/notebook)
 - [Text Tools](https://github.com/NeurAlch/text-tools)
